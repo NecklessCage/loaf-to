@@ -6,12 +6,12 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Loaf (ခ) ပေါင်မုန့်လုံး ဖိုတိုဂရပ်ဖီ"
+subtitle: "Loaf lives confidently!"
+author: "Loaf ၏ မီမီ ဒီဒီ"
 header:
- title: "Photography"
- subtitle: "by Ram Patra"
+ title: "ဖိုတိုဂရပ်ဖီ"
+ subtitle: "by မီမီ ဒီဒီ"
 footer:
  name: "Hey there, my name is Ram"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
